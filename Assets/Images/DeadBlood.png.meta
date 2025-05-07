@@ -1,0 +1,817 @@
+fileFormatVersion: 2
+guid: ab99113f33d81d54698f0c448bab1d6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2200370555910437015
+    second: DeadBlood_0
+  - first:
+      213: 3130459208870377899
+    second: DeadBlood_1
+  - first:
+      213: 790085463655490257
+    second: DeadBlood_2
+  - first:
+      213: 1047196573139201314
+    second: DeadBlood_3
+  - first:
+      213: -7277895244869601528
+    second: DeadBlood_4
+  - first:
+      213: 784666492013623135
+    second: DeadBlood_5
+  - first:
+      213: 6364175727771681215
+    second: DeadBlood_6
+  - first:
+      213: 4554050703656073314
+    second: DeadBlood_7
+  - first:
+      213: 2211252893040802467
+    second: DeadBlood_8
+  - first:
+      213: -4034605374485621667
+    second: DeadBlood_9
+  - first:
+      213: -4107488366991022840
+    second: DeadBlood_10
+  - first:
+      213: 1565748849997082037
+    second: DeadBlood_11
+  - first:
+      213: 495193000346846526
+    second: DeadBlood_12
+  - first:
+      213: 7055646977015150935
+    second: DeadBlood_13
+  - first:
+      213: 996099600724220509
+    second: DeadBlood_14
+  - first:
+      213: -3230526117773952131
+    second: DeadBlood_15
+  - first:
+      213: 3689532018370923222
+    second: DeadBlood_16
+  - first:
+      213: -8728459329864749108
+    second: DeadBlood_17
+  - first:
+      213: -5860162760766343338
+    second: DeadBlood_18
+  - first:
+      213: 1009622382482955068
+    second: DeadBlood_19
+  - first:
+      213: -5150742142280710139
+    second: DeadBlood_20
+  - first:
+      213: 797778075056702022
+    second: DeadBlood_21
+  - first:
+      213: -7984731079713818892
+    second: DeadBlood_22
+  - first:
+      213: -908809032073955193
+    second: DeadBlood_23
+  - first:
+      213: 3781031032574964110
+    second: DeadBlood_24
+  - first:
+      213: -5837674012621279828
+    second: DeadBlood_25
+  - first:
+      213: -9080483182079462586
+    second: DeadBlood_26
+  - first:
+      213: 1501102080548089389
+    second: DeadBlood_27
+  - first:
+      213: -1674748973738055355
+    second: DeadBlood_28
+  - first:
+      213: -1308191148204868958
+    second: DeadBlood_29
+  - first:
+      213: -4069659542696714063
+    second: DeadBlood_30
+  - first:
+      213: 4326895544123425114
+    second: DeadBlood_31
+  - first:
+      213: -5564061921386903101
+    second: DeadBlood_32
+  - first:
+      213: 3781007103512516303
+    second: DeadBlood_33
+  - first:
+      213: -6614958141916287100
+    second: DeadBlood_34
+  - first:
+      213: -2096898005723988385
+    second: DeadBlood_35
+  - first:
+      213: -4568898123786669153
+    second: DeadBlood_36
+  - first:
+      213: -2642018429705676620
+    second: DeadBlood_37
+  - first:
+      213: -6102551878626557313
+    second: DeadBlood_38
+  - first:
+      213: 2162147328153694928
+    second: DeadBlood_39
+  - first:
+      213: 1459585881199527828
+    second: DeadBlood_40
+  - first:
+      213: -418220359856631125
+    second: DeadBlood_41
+  - first:
+      213: -806822329446926245
+    second: DeadBlood_42
+  - first:
+      213: -1715619102967111375
+    second: DeadBlood_43
+  - first:
+      213: -1623176860572459231
+    second: DeadBlood_44
+  - first:
+      213: -972764311919114128
+    second: DeadBlood_45
+  - first:
+      213: 2254166412467266387
+    second: DeadBlood_46
+  - first:
+      213: 4984207853239655755
+    second: DeadBlood_47
+  - first:
+      213: -1431709511233094065
+    second: DeadBlood_48
+  - first:
+      213: -1049862029374278404
+    second: DeadBlood_49
+  - first:
+      213: -8125421902396485031
+    second: DeadBlood_50
+  - first:
+      213: 3577592222837382393
+    second: DeadBlood_51
+  - first:
+      213: 7971777370251648299
+    second: DeadBlood_52
+  - first:
+      213: -3390217473244771666
+    second: DeadBlood_53
+  - first:
+      213: 8342018448747239755
+    second: DeadBlood_54
+  - first:
+      213: 3473699162328961362
+    second: DeadBlood_55
+  - first:
+      213: 8978093532977118948
+    second: DeadBlood_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DeadBlood_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b60193066cd2e4d99930ddf57c0537
+      internalID: -997696938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadBlood_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856b665ac341c0d4abeb85d547a606c4
+      internalID: 1508368898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadBlood_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862a99677bcac8546bf10140ee90d101
+      internalID: 2000695151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadBlood_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0910820cf0a65b54080338083b45834c
+      internalID: -532664188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadBlood_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537b665bc26be394aa6323c1c552e0d4
+      internalID: -1233998613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadBlood_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d59e633440a714ab70b362eccaf89c
+      internalID: 472619478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadBlood_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a44dc9c51b2fd42a1ac944fcfb174d
+      internalID: 500510556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadBlood_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e37d2a334ff28479e270f4c08fab78
+      internalID: -2079832227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadBlood_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003497956f52c8e45b1f452f6a17a9a1
+      internalID: -2043750039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadBlood_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11fa7420b0cd364d8653ca986d0dc0d
+      internalID: 175179205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadBlood_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77533d1328898c6458aee5a7d0fa812b
+      internalID: 1152017085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadBlood_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40021ad035d1de42a3a0856c51ee7b1
+      internalID: 1436616346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadBlood_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0023a3deddf78a04da2426fe45ea0f46
+      internalID: 381242960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadBlood_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9b405f0de990044aac8ade308736d2
+      internalID: -162237578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadBlood_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2653c8ae5667514d9a85af2c24eba1d
+      internalID: -1218245736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadBlood_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b3ac83cd7ff5f418c1c69a0e111ead
+      internalID: 559751932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadBlood_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7632ec7f06c4c841bca9959f4795e85
+      internalID: 1150184209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadBlood_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069b6f6a374f53140986492493be3d7d
+      internalID: -876685182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadBlood_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9c40efe875e1a40a35ca2d7d3d2df7
+      internalID: -1975414998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadBlood_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ef990a9bae60448babd2bfd11d1b06
+      internalID: 269206307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadBlood_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81345edc67f36e4b9be8b5fbb7558cc
+      internalID: -961232861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadBlood_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c7630e2209bea4b9b7db3e4e53ca27
+      internalID: 1382484046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadBlood_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7d06aca3a521944bec6bcf72beaf05
+      internalID: 1141399024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1b25e97881b4cbb40bcf7bebe3ac4725
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DeadBlood_0: -997696938
+      DeadBlood_1: 1508368898
+      DeadBlood_10: 1152017085
+      DeadBlood_11: 1436616346
+      DeadBlood_12: 381242960
+      DeadBlood_13: -162237578
+      DeadBlood_14: -1218245736
+      DeadBlood_15: 559751932
+      DeadBlood_16: 1150184209
+      DeadBlood_17: -876685182
+      DeadBlood_18: -1975414998
+      DeadBlood_19: 269206307
+      DeadBlood_2: 2000695151
+      DeadBlood_20: -961232861
+      DeadBlood_21: 1382484046
+      DeadBlood_22: 1141399024
+      DeadBlood_3: -532664188
+      DeadBlood_4: -1233998613
+      DeadBlood_5: 472619478
+      DeadBlood_6: 500510556
+      DeadBlood_7: -2079832227
+      DeadBlood_8: -2043750039
+      DeadBlood_9: 175179205
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
